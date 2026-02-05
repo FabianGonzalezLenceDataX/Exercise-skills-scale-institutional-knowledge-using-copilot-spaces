@@ -14,7 +14,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 
 ## Minimum Deliverables
 - Project One-pager (Problem, Goal, Success Metrics)
-- Stakeholder list & communication plan
+- Stakeholder list & communication plan (include Business Owner/Sponsor, Customer Success, Sales Engineering, and other relevant stakeholders)
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
@@ -31,10 +31,11 @@ Whenever a new project idea or feature proposal is ready to be explored.
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
-- [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Sponsor / Stakeholder alignment (email or meeting with Business Owner/Sponsor)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Identify need for design discovery or UX research (coordinate with UX/UI Designer)
 
 ## Decision Gate
 Move to planning when:
