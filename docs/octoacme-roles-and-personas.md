@@ -99,8 +99,6 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
----
-
 ## UX/UI Designer
 
 ### Role Summary
